@@ -1,1 +1,1 @@
-# foodwastemanagement
+# foodwastemanagement hello everyone i am sabareesh h. i am sabareesh h.i created the food waste management app that contains login page. when i login that page it was connected with the firebase. it redirects to the main page that contains search food,donate food,update food,mycarts,myorder,my profile. if i touch the update food. it redirects to the new page that contains item, description,place etc. it will be recorded in the data base. and it will reminds the manager to supply the item or food. thank you 
